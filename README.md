@@ -12,6 +12,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Ayman-Shafi-and-Tapasweni-Pathak--Af
 
 https://paper.dropbox.com/doc/Meeting-notes-Anant-Moudgalya-and-Tapasweni-Pathak--Afeuq6yp~7iXywE~3aFeq0lLAQ-yJdwO6LBNJqcSUOLNVmWu
 
+https://paper.dropbox.com/doc/Meeting-notes-Amulya-Arun-B-and-Tapasweni-Pathak--AfeL75SJpq9aBARyx6Ve6ADWAQ-MzDc2Znves8gqHELXpVr2
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -24,6 +26,8 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@anantmoudgalya Timeline]()
 
+[@amulyaarunb Timeline]()
+
 # Calendar
 
 [@horaanchal Calendar](https://calendly.com/horaanchal17/15min)
@@ -31,3 +35,5 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 [@AymanShafi Calendar]()
 
 [@anantmoudgalya Calendar](https://calendly.com/anantm/15min)
+
+[@amulyaarunb Calendar]()
