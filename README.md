@@ -8,6 +8,8 @@ This repository has research topics on algorithmic trading and few things I am i
 
 https://paper.dropbox.com/doc/Meeting-notes-Anchal-Hora-and-Tapasweni-Pathak--AfYz1fGd8HCZmgGrjMG4q8__AQ-HhokLaYpe4xKwspbK6K3q
 
+https://paper.dropbox.com/doc/Meeting-notes-Ayman-Shafi-and-Tapasweni-Pathak--AfdqdrbYquD2nhZ45D4OKiHDAQ-nyfKGsCvXdAc4rPFUNwMF
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -16,6 +18,11 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@horaanchal Timeline]()
 
+[@AymanShafi Timeline]()
+
 # Calendar
 
 [@horaanchal Calendar](https://calendly.com/horaanchal17/15min)
+
+
+[@AymanShafi Calendar]()
