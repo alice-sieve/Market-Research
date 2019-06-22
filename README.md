@@ -22,7 +22,7 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@horaanchal Timeline]()
 
-[@AymanShafi Timeline]()
+[@AymanShafi Timeline](https://paper.dropbox.com/doc/Meeting-notes-Ayman-Shafi-and-Tapasweni-Pathak--AfjHqMNDK312YcSRoUw1_Ii7Ag-nyfKGsCvXdAc4rPFUNwMF)
 
 [@anantmoudgalya Timeline]()
 
@@ -32,7 +32,7 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@horaanchal Calendar](https://calendly.com/horaanchal17/15min)
 
-[@AymanShafi Calendar]()
+[@AymanShafi Calendar](https://calendly.com/ayman-shafi)
 
 [@anantmoudgalya Calendar](https://calendly.com/anantm/15min)
 
