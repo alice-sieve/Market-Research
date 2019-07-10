@@ -40,4 +40,4 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@amulyaarunb Calendar](https://calendly.com/amulyaarunb/15min)
 
-[@shah-aman Calendar]()
+[@shah-aman Calendar](https://calendly.com/aman-shah/15min)
